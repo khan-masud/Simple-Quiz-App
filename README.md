@@ -1,4 +1,4 @@
-# Quiz App by Abdullah Al Masud
+# Simple Quiz App
 
 Welcome to the **Quiz App**, an engaging and fun web-based application where users can test their knowledge through humorous and culturally relevant quiz questions.
 
@@ -63,6 +63,13 @@ quiz-app/
    ```
 4. Save the file and refresh the browser.
 
+
+## 🌍 Live Demo
+
+```
+https://quiz-app-masud.vercel.app/
+```
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -72,7 +79,7 @@ Contributions are welcome! Feel free to:
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## 🙌 Acknowledgments
 
